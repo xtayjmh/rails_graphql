@@ -1,0 +1,4 @@
+development:
+    db_usr: rails_graphql
+    db_pwd: Shinetech_2021
+production:
