@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387a05ef-8f4d-4d76-95c8-780cedcc4367" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/deploy.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/deploy/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/deploy/staging.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rails_graphql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rails_graphql.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/puma.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +159,7 @@
       <workItem from="1611277300193" duration="8000" />
       <workItem from="1611541507880" duration="460000" />
       <workItem from="1611628999379" duration="55000" />
-      <workItem from="1611723676293" duration="6299000" />
+      <workItem from="1611723676293" duration="7493000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1611724280719</created>
@@ -183,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611725095248</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Init">
+      <created>1611730913435</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611730913435</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add nginx.conf">
+      <created>1611731758125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611731758125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +210,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="add nginx.conf" />
+    <option name="LAST_COMMIT_MESSAGE" value="add nginx.conf" />
   </component>
 </project>
