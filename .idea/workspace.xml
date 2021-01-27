@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="387a05ef-8f4d-4d76-95c8-780cedcc4367" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/graphql_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/mutations/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/mutations/add_note.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/mutations/base_mutation.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/queries/base_query.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/queries/fetch_notes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/rails_graphql_schema.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_argument.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_enum.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_field.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_input_object.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_interface.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_object.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_scalar.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_union.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/input/note_input_type.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/mutation_type.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/note_type.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/graphql/types/query_type.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/note.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20210121061851_create_notes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rails" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,8 +160,16 @@
       <workItem from="1611277300193" duration="8000" />
       <workItem from="1611541507880" duration="460000" />
       <workItem from="1611628999379" duration="55000" />
-      <workItem from="1611723676293" duration="419000" />
+      <workItem from="1611723676293" duration="1161000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1611724280719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611724280719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,5 +189,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
 </project>
